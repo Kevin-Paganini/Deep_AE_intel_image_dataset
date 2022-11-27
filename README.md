@@ -25,7 +25,9 @@ testing_model_architectures.ipynb:
 Autoencoders.pdf:
 - Presentation of the convolutional autoencoder
 
-
+/models/:  
+Contains five trained models on the intel imade dataset   
+(model10312022_no_data_aug1.h5 was used for the visualisations in exploring_latent_space.ipynb)
 
 ## Authors and acknowledgment
 Luke Harwood and Kevin Paganini
