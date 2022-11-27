@@ -1,4 +1,0 @@
-One thing that we should show is how the output accuracy gets worse the smaller the latent representation.
---> Diagram of 5x2 input vs output for different latent representations
-We could say we have an 83% accurate representation of the data in 36 dimensions vs 100% accuracy in 67500
-Another thing we should show is the output of the model in 2 dimensions hopefully, possibly three.
